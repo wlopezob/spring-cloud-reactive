@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-discover-register/spring-cloud-ms-discover-register.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-discover-register/spring-cloud-ms-discover-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-internal-gateway/spring-cloud-ms-internal-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-internal-gateway/spring-cloud-ms-internal-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-persona/spring-cloud-ms-persona.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-persona/spring-cloud-ms-persona.iml" />
+    </modules>
+  </component>
+</project>
