@@ -1,0 +1,16 @@
+
+spring:
+    application:
+        name: spring-cloud-ms-persona-reactive
+    webflux:
+            base-path: /msr-persona
+
+server:
+    port: 8091
+    servlet:
+        context-path: /msr-persona
+
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/

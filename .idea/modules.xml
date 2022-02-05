@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-config-server/spring-cloud-ms-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-config-server/spring-cloud-ms-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-discover-register/spring-cloud-ms-discover-register.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-discover-register/spring-cloud-ms-discover-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-external-gateway/spring-cloud-ms-external-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-external-gateway/spring-cloud-ms-external-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-internal-gateway/spring-cloud-ms-internal-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-internal-gateway/spring-cloud-ms-internal-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-mng-accesscard/spring-cloud-ms-mng-accesscard.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-mng-accesscard/spring-cloud-ms-mng-accesscard.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-persona/spring-cloud-ms-persona.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-persona/spring-cloud-ms-persona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-persona-reactive/spring-cloud-ms-persona-reactive.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-persona-reactive/spring-cloud-ms-persona-reactive.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-ms-security/spring-cloud-ms-security.iml" filepath="$PROJECT_DIR$/spring-cloud-ms-security/spring-cloud-ms-security.iml" />
     </modules>
   </component>

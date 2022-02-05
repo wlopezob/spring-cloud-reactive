@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-ms-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ms-security/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ms-mng-accesscard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ms-external-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ms-persona-reactive/pom.xml" />
       </list>
     </option>
   </component>

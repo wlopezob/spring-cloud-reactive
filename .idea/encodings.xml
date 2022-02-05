@@ -4,9 +4,13 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-config-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-discover-register/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ms-external-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ms-external-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-internal-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-mng-accesscard/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-mng-accesscard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ms-persona-reactive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ms-persona-reactive/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-persona/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ms-security/src/main/java" charset="UTF-8" />
   </component>
